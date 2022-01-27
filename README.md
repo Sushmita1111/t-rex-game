@@ -1,2 +1,2 @@
 # t-rex-game
-t-rex game using html css and javascript
+This is a simple t-rex game made with html css and javascript.
